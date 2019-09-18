@@ -909,4 +909,4 @@
  "nbformat": 4,
  "nbformat_minor": 2
 }
-$ jupyter mbconvert --to html PLOTTINGBASCIS.ipynb
+
